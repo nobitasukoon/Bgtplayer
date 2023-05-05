@@ -1,7 +1,7 @@
 {
-    "name": "Bgt Music Bot",
+    "name": "Broken Music Bot",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/c8135608b7f9f77541a82.jpg",
+    "logo": "https://telegra.ph/file/00074571ee14d8a08c38a.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -34,7 +34,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters",
-        "value": "🌟⃝🌸𓆩🇧𝗚𝗧🎸🇲𝗨𝗦𝗜𝗖🎸🇧𝗢𝗧𓆪💫⃟👑 ",
+        "value": "🌟⃝🌸𓆩🇧𝗥𝗢𝗞𝗘𝗡🎸🇲𝗨𝗦𝗜𝗖🎸𓆪💫⃟👑 ",
         "required": true
       },
       "OWNER_ID": {
@@ -44,12 +44,12 @@
       },
       "SUPPORT_GROUP": {
         "description": "Input Your Support Group with Full Link like https://t.me/Bgt_Chat",
-        "value": "https://t.me/BGT_CHAT",
+        "value": "https://t.me/TAARON_K_SHAHAR",
         "required": true
       },
       "SUPPORT_CHANNEL": {
         "description": "Input Your Support Channel full link ",
-        "value": "https://t.me/BIKASHGADGETSTECH",
+        "value": "https://t.me/TAARON_K_SHAHAR",
         "required": true
       },
       "STRING_SESSION": {
